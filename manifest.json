@@ -1,1 +1,29 @@
-
+{
+    "manifest_version": 2,
+    "name": "Timeless Veil",
+    "version": "1.3",
+    "description": "A minimalist and elegant Firefox theme with a distinctive, timeless color palette.",
+    "theme": {
+      "colors": {
+        "frame": "#1F1F1F",
+        "toolbar": "#2C3E50",
+        "tab_background_text": "#ECF0F1",
+        "toolbar_text": "#BDC3C7",
+        "sidebar": "#2C3E50",
+        "popup": "#2C3E50",
+        "popup_text": "#ECF0F1",
+        "button_background": "#2980B9",
+        "icons": "#3498DB",
+        "tab_background_separator": "#34495E",
+        "ntp_background": "#1F1F1F",
+        "ntp_text": "#ECF0F1",
+        "ntp_link": "#E74C3C",
+        "ntp_header": "#2C3E50",
+        "ntp_section": "#34495E",
+        "ntp_section_text": "#ECF0F1",
+        "ntp_section_label": "#3498DB",
+        "ntp_highlight": "#1ABC9C"
+      }
+    }
+  }
+  
